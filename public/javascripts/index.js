@@ -1,7 +1,7 @@
 // Create quarters client
 var client = new Quarters({
-  appKey: 'KAYR7bXS3116XyV9vs6u',
-  appSecret: 'qg05u8p50lof20z9y6b1jb6kf4hcfbdl',
+  appKey: 'jkj9W0ZhxAPUdDR6Cq5b',
+  appSecret: 'aw4mvm5oxgqdtrsobn8ntujqz0rc8kn9',
   quartersURL: 'https://dev.pocketfulofquarters.com',
   apiURL: 'https://api.dev.pocketfulofquarters.com/v1/'
 })
