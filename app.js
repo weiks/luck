@@ -9,9 +9,9 @@ var bodyParser = require('body-parser')
 var Quarters = require('node-quarters')
 // Create quarters client
 var quartersClient = new Quarters({
-  key: 'KAYR7bXS3116XyV9vs6u',
-  webSecret: 'qg05u8p50lof20z9y6b1jb6kf4hcfbdl',
-  secret: 'dap80oj3ygvuazfcgjex9l53wua1m6llyqiwzt8y0mf41f82hsjl',
+  key: 'jkj9W0ZhxAPUdDR6Cq5b',
+  webSecret: 'aw4mvm5oxgqdtrsobn8ntujqz0rc8kn9',
+  secret: '7y4wp1kz1g8kw58jhav6w2ie0r4vqkkphg1gtnabk9a7zz0zh3y9ff',
   address: '0xf17f52151ebef6c7334fad080c5704d77216b732',
   quartersURL: 'https://dev.pocketfulofquarters.com',
   apiURL: 'https://api.dev.pocketfulofquarters.com/v1/'
