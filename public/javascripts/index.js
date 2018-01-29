@@ -143,7 +143,7 @@ var app = new Vue({
               // data.requestId => Request Id to get details about order (/v1/requests/:requestId)
 
               // change quarters
-              that.quarters -= 10
+              that.loadBalance()
 
               // Send server that we have paid 10 quarters and check if I won
               that.playNow(data.txId, data.requestId, chance)
