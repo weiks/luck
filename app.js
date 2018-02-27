@@ -12,7 +12,7 @@ var quartersClient = new Quarters({
   key: 'jkj9W0ZhxAPUdDR6Cq5b',
   webSecret: 'aw4mvm5oxgqdtrsobn8ntujqz0rc8kn9',
   secret: '7y4wp1kz1g8kw58jhav6w2ie0r4vqkkphg1gtnabk9a7zz0zh3y9ff',
-  address: '0xf17f52151ebef6c7334fad080c5704d77216b732',
+  address: '0x347b0bfc4a86b1402c9dd92fea727235e92888c0',
   quartersURL: 'https://dev.pocketfulofquarters.com',
   apiURL: 'https://api.dev.pocketfulofquarters.com/v1/'
 })
