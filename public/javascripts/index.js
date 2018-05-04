@@ -2,8 +2,8 @@
 var client = new Quarters({
   appKey: 'jkj9W0ZhxAPUdDR6Cq5b',
   appSecret: 'aw4mvm5oxgqdtrsobn8ntujqz0rc8kn9',
-  quartersURL: 'https://dev.pocketfulofquarters.com',
-  apiURL: 'https://api.dev.pocketfulofquarters.com/v1/'
+  quartersURL: 'https://pocketfulofquarters.com',
+  apiURL: 'https://api.pocketfulofquarters.com/v1/'
 })
 
 var app = new Vue({
